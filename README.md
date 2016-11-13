@@ -2,4 +2,7 @@
 这是我的第一个js项目  
 # 我的代码  
 
-    <script>alert("hello world!");</script>
+    <script>alert("hello world!");</script>  
+
+## 标签 `javascript` **js**
+<百度>("http:www.baidu.com")
